@@ -1,0 +1,28 @@
+C:\Users\Mier\Desktop\lexer gzy\lexer gzy\lexer gzy\bin\Debug\lexer gzy.exe.config
+C:\Users\Mier\Desktop\lexer gzy\lexer gzy\lexer gzy\bin\Debug\lexer gzy.exe
+C:\Users\Mier\Desktop\lexer gzy\lexer gzy\lexer gzy\bin\Debug\lexer gzy.pdb
+C:\Users\Mier\Desktop\lexer gzy\lexer gzy\lexer gzy\obj\Debug\lexer gzy.csprojAssemblyReference.cache
+C:\Users\Mier\Desktop\lexer gzy\lexer gzy\lexer gzy\obj\Debug\lexer_gzy.Properties.Resources.resources
+C:\Users\Mier\Desktop\lexer gzy\lexer gzy\lexer gzy\obj\Debug\lexer gzy.csproj.GenerateResource.cache
+C:\Users\Mier\Desktop\lexer gzy\lexer gzy\lexer gzy\obj\Debug\lexer gzy.csproj.CoreCompileInputs.cache
+C:\Users\Mier\Desktop\lexer gzy\lexer gzy\lexer gzy\obj\Debug\lexer gzy.exe
+C:\Users\Mier\Desktop\lexer gzy\lexer gzy\lexer gzy\obj\Debug\lexer gzy.pdb
+C:\Users\郭子杨\Desktop\新建文件夹 (4)\lexer gzy\lexer gzy\lexer gzy\obj\Debug\lexer_gzy.Properties.Resources.resources
+C:\Users\郭子杨\Desktop\新建文件夹 (4)\lexer gzy\lexer gzy\lexer gzy\obj\Debug\lexer_gzy.词法分析器.resources
+C:\Users\郭子杨\Desktop\新建文件夹 (4)\lexer gzy\lexer gzy\lexer gzy\obj\Debug\lexer gzy.csproj.GenerateResource.cache
+C:\Users\郭子杨\Desktop\新建文件夹 (4)\lexer gzy\lexer gzy\lexer gzy\obj\Debug\lexer gzy.csproj.CoreCompileInputs.cache
+C:\Users\郭子杨\Desktop\新建文件夹 (4)\lexer gzy\lexer gzy\lexer gzy\obj\Debug\lexer gzy.exe
+C:\Users\郭子杨\Desktop\新建文件夹 (4)\lexer gzy\lexer gzy\lexer gzy\obj\Debug\lexer gzy.pdb
+C:\Users\郭子杨\Desktop\新建文件夹 (4)\lexer gzy\lexer gzy\lexer gzy\bin\Debug\lexer gzy.exe.config
+C:\Users\郭子杨\Desktop\新建文件夹 (4)\lexer gzy\lexer gzy\lexer gzy\bin\Debug\lexer gzy.exe
+C:\Users\郭子杨\Desktop\新建文件夹 (4)\lexer gzy\lexer gzy\lexer gzy\bin\Debug\lexer gzy.pdb
+C:\Users\郭子杨\Desktop\新建文件夹 (4)\lexer gzy\lexer gzy\lexer gzy\obj\Debug\lexer gzy.csprojAssemblyReference.cache
+C:\Users\Mier\Desktop\新建文件夹 (4)\lexer gzy\lexer gzy\lexer gzy\obj\Debug\lexer_gzy.Properties.Resources.resources
+C:\Users\Mier\Desktop\新建文件夹 (4)\lexer gzy\lexer gzy\lexer gzy\obj\Debug\lexer_gzy.词法分析器.resources
+C:\Users\Mier\Desktop\新建文件夹 (4)\lexer gzy\lexer gzy\lexer gzy\obj\Debug\lexer gzy.csproj.GenerateResource.cache
+C:\Users\Mier\Desktop\新建文件夹 (4)\lexer gzy\lexer gzy\lexer gzy\obj\Debug\lexer gzy.csproj.CoreCompileInputs.cache
+C:\Users\Mier\Desktop\新建文件夹 (4)\lexer gzy\lexer gzy\lexer gzy\obj\Debug\lexer gzy.exe
+C:\Users\Mier\Desktop\新建文件夹 (4)\lexer gzy\lexer gzy\lexer gzy\obj\Debug\lexer gzy.pdb
+C:\Users\Mier\Desktop\新建文件夹 (4)\lexer gzy\lexer gzy\lexer gzy\bin\Debug\lexer gzy.exe.config
+C:\Users\Mier\Desktop\新建文件夹 (4)\lexer gzy\lexer gzy\lexer gzy\bin\Debug\lexer gzy.exe
+C:\Users\Mier\Desktop\新建文件夹 (4)\lexer gzy\lexer gzy\lexer gzy\bin\Debug\lexer gzy.pdb
